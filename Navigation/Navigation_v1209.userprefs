@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\_arHandler.cs">
+    <Files>
+      <File FileName="Assets\Scripts\_arHandler.cs" Line="83" Column="2" />
+      <File FileName="Assets\Scripts\_startCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Chat.cs" Line="106" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

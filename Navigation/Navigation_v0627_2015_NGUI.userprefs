@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Chat_0321.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Chat_0321.cs" Line="433" Column="4" />
+      <File FileName="Assets\Scripts\man_1.cs" Line="29" Column="3" />
+      <File FileName="Assets\Scripts\man_5.cs" Line="13" Column="58" />
+      <File FileName="Assets\Scripts\man_3.cs" Line="31" Column="3" />
+      <File FileName="Assets\Scripts\man_4.cs" Line="31" Column="3" />
+      <File FileName="Assets\Scripts\man_2.cs" Line="22" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\Android\AndroidManifest.xml">
+    <Files>
+      <File FileName="Assets\Scripts\Chat.cs" Line="123" Column="38" />
+      <File FileName="Assets\Plugins\Android\AndroidManifest.xml" Line="23" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
